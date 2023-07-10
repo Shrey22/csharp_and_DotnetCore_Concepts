@@ -1,0 +1,12 @@
+D:\tranning\c#_dotnetCore\employeelib\bin\Debug\net6.0\employeelib.deps.json
+D:\tranning\c#_dotnetCore\employeelib\bin\Debug\net6.0\employeelib.dll
+D:\tranning\c#_dotnetCore\employeelib\bin\Debug\net6.0\employeelib.pdb
+D:\tranning\c#_dotnetCore\employeelib\obj\Debug\net6.0\employeelib.csproj.AssemblyReference.cache
+D:\tranning\c#_dotnetCore\employeelib\obj\Debug\net6.0\employeelib.GeneratedMSBuildEditorConfig.editorconfig
+D:\tranning\c#_dotnetCore\employeelib\obj\Debug\net6.0\employeelib.AssemblyInfoInputs.cache
+D:\tranning\c#_dotnetCore\employeelib\obj\Debug\net6.0\employeelib.AssemblyInfo.cs
+D:\tranning\c#_dotnetCore\employeelib\obj\Debug\net6.0\employeelib.csproj.CoreCompileInputs.cache
+D:\tranning\c#_dotnetCore\employeelib\obj\Debug\net6.0\employeelib.dll
+D:\tranning\c#_dotnetCore\employeelib\obj\Debug\net6.0\refint\employeelib.dll
+D:\tranning\c#_dotnetCore\employeelib\obj\Debug\net6.0\employeelib.pdb
+D:\tranning\c#_dotnetCore\employeelib\obj\Debug\net6.0\ref\employeelib.dll
