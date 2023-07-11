@@ -101,6 +101,7 @@ namespace HelloCSharp
 
             //int[] scores = { 10, 20, 30, 04, 89, 22 };
 
+            // LinQ usig query expression
             //IEnumerable<int> scores2 = from score in scores
             //                           where score > 20
             //                           orderby score descending

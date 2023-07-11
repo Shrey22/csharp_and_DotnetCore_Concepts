@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BankLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BankLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BankLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankLib/1.0.0": {
+      "type": "project",
+      "path": "../BankLib/BankLib.csproj",
+      "msbuildProject": "../BankLib/BankLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BankLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\powlsh\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\tranning\\c#_dotnetCore\\DotnetCoreSolutions\\BankApplication\\BankApplication.csproj",
+      "projectName": "BankApplication",
+      "projectPath": "D:\\tranning\\c#_dotnetCore\\DotnetCoreSolutions\\BankApplication\\BankApplication.csproj",
+      "packagesPath": "C:\\Users\\powlsh\\.nuget\\packages\\",
+      "outputPath": "D:\\tranning\\c#_dotnetCore\\DotnetCoreSolutions\\BankApplication\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\powlsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\tranning\\c#_dotnetCore\\DotnetCoreSolutions\\BankLib\\BankLib.csproj": {
+              "projectPath": "D:\\tranning\\c#_dotnetCore\\DotnetCoreSolutions\\BankLib\\BankLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.107\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
