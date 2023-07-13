@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PersonServiceContract\PersonServiceContract.csproj" />
+    <ProjectReference Include="..\PersonService\PersonService.csproj" />
+  </ItemGroup>
+
+</Project>

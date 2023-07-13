@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MVCDemo/1.0.0": {
+        "dependencies": {
+          "PersonService": "1.0.0",
+          "PersonServiceContract": "1.0.0"
+        },
+        "runtime": {
+          "MVCDemo.dll": {}
+        }
+      },
+      "PersonService/1.0.0": {
+        "dependencies": {
+          "PersonServiceContract": "1.0.0"
+        },
+        "runtime": {
+          "PersonService.dll": {}
+        }
+      },
+      "PersonServiceContract/1.0.0": {
+        "runtime": {
+          "PersonServiceContract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MVCDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonServiceContract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,78 @@
+﻿@using MVCDemo.Models;
+@*@model IEnumerable<Person>;*@
+@model IEnumerable<string>;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to ASP.NET Core (MVC)</h1>
+</div>
+
+
+
+<div class="mt-3">
+    @foreach (string person in Model)
+    {
+        <li>@person</li>
+    }
+</div>
+
+<div><h3>@ViewBag.serviceId1</h3></div>
+<div><h3>@ViewBag.serviceId2</h3></div>
+<div><h3>@ViewBag.serviceId3</h3></div>
+
+@*<div class="mt-5">
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th scope="col">First</th>
+          <th scope="col">DOB</th>
+          <th scope="col">Sex</th>
+          <th scope="col">Details</th>
+        </tr>
+      </thead>
+      <tbody>
+            @foreach (Person person in Model)
+            {
+                <tr>
+                        <td>@person.Name</td>
+                        <td>@person.DateOfBirth?.ToString("MM/dd/yyyy")</td>
+                        <td>@person.Sex</td>
+                        <td><a href="/Person-Details/@person.Name"/>Details</td>
+
+                </tr>   
+            }       
+      </tbody>
+    </table>
+    <span>
+    
+</span>
+</div>*@
+
+
+
+
+ @*<div class="mt-5">
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th scope="col">First</th>
+          <th scope="col">DOB</th>
+          <th scope="col">Sex</th>
+        </tr>
+      </thead>
+      <tbody>
+                @foreach (Person person in ViewBag.people)
+                {
+                    <tr>
+                          <td>@person.Name</td>
+                          <td>@person.DateOfBirth?.ToString("MM/dd/yyyy")</td>
+                          <td>@person.Sex</td>
+                    </tr>   
+                }       
+      </tbody>
+    </table>
+</div>*@
+
+

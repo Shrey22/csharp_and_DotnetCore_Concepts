@@ -1,0 +1,26 @@
+﻿@using MVCDemo.Models;
+@model Person;
+@{
+    ViewData["Title"] = "Person-Detail Page";
+}
+
+<div>
+    <h3>Requested Person Details :</h3>
+    <div class="mt-5">
+        <p>
+        <label>Name : @Model.Name</label>
+    </p>
+    <p>
+        <label>DOB : @Model.DateOfBirth?.ToString("MM/dd/yyyy")</label>
+    </p>
+    <p>
+        <label>Sex : @Model.Sex</label>
+    </p>
+    </div>
+
+    <div>
+        <a href="/">Back to Home</a>
+    </div>
+
+</div>
+

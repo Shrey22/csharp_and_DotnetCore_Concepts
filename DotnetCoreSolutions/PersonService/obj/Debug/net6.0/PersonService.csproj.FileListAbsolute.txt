@@ -1,0 +1,15 @@
+D:\tranning\c#_dotnetCore\DotnetCoreSolutions\PersonService\bin\Debug\net6.0\PersonService.deps.json
+D:\tranning\c#_dotnetCore\DotnetCoreSolutions\PersonService\bin\Debug\net6.0\PersonService.dll
+D:\tranning\c#_dotnetCore\DotnetCoreSolutions\PersonService\bin\Debug\net6.0\PersonService.pdb
+D:\tranning\c#_dotnetCore\DotnetCoreSolutions\PersonService\obj\Debug\net6.0\PersonService.csproj.AssemblyReference.cache
+D:\tranning\c#_dotnetCore\DotnetCoreSolutions\PersonService\obj\Debug\net6.0\PersonService.GeneratedMSBuildEditorConfig.editorconfig
+D:\tranning\c#_dotnetCore\DotnetCoreSolutions\PersonService\obj\Debug\net6.0\PersonService.AssemblyInfoInputs.cache
+D:\tranning\c#_dotnetCore\DotnetCoreSolutions\PersonService\obj\Debug\net6.0\PersonService.AssemblyInfo.cs
+D:\tranning\c#_dotnetCore\DotnetCoreSolutions\PersonService\obj\Debug\net6.0\PersonService.csproj.CoreCompileInputs.cache
+D:\tranning\c#_dotnetCore\DotnetCoreSolutions\PersonService\obj\Debug\net6.0\PersonService.dll
+D:\tranning\c#_dotnetCore\DotnetCoreSolutions\PersonService\obj\Debug\net6.0\refint\PersonService.dll
+D:\tranning\c#_dotnetCore\DotnetCoreSolutions\PersonService\obj\Debug\net6.0\PersonService.pdb
+D:\tranning\c#_dotnetCore\DotnetCoreSolutions\PersonService\obj\Debug\net6.0\ref\PersonService.dll
+D:\tranning\c#_dotnetCore\DotnetCoreSolutions\PersonService\bin\Debug\net6.0\PersonServiceContract.dll
+D:\tranning\c#_dotnetCore\DotnetCoreSolutions\PersonService\bin\Debug\net6.0\PersonServiceContract.pdb
+D:\tranning\c#_dotnetCore\DotnetCoreSolutions\PersonService\obj\Debug\net6.0\PersonService.csproj.CopyComplete

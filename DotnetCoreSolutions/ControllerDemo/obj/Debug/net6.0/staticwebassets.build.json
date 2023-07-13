@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "o6wDYAZ1FjJbmHbgfKFsaj2vMIoyinP8q8d5AKoUvcA=",
+  "Source": "ControllerDemo",
+  "BasePath": "_content/ControllerDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllerDemo\\wwwroot",
+      "Source": "ControllerDemo",
+      "ContentRoot": "D:\\tranning\\c#_dotnetCore\\DotnetCoreSolutions\\ControllerDemo\\wwwroot\\",
+      "BasePath": "_content/ControllerDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\tranning\\c#_dotnetCore\\DotnetCoreSolutions\\ControllerDemo\\wwwroot\\files\\sample.pdf",
+      "SourceId": "ControllerDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\tranning\\c#_dotnetCore\\DotnetCoreSolutions\\ControllerDemo\\wwwroot\\",
+      "BasePath": "_content/ControllerDemo",
+      "RelativePath": "files/sample.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\sample.pdf"
+    },
+    {
+      "Identity": "D:\\tranning\\c#_dotnetCore\\DotnetCoreSolutions\\ControllerDemo\\wwwroot\\images\\image.jpg",
+      "SourceId": "ControllerDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\tranning\\c#_dotnetCore\\DotnetCoreSolutions\\ControllerDemo\\wwwroot\\",
+      "BasePath": "_content/ControllerDemo",
+      "RelativePath": "images/image.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\image.jpg"
+    }
+  ]
+}
